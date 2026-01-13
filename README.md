@@ -20,12 +20,15 @@ fichero Excel como entrada.
 
 Debe llamarse `listado_legos.xlsx` e incluir una hoja `Listado` con:
 
+```
   Campo                  Descripción
   ---------------------- --------------------------------------------
   ID                     Identificador del set
   Nombre / Descripción   Nombre del set
   PrecioCompra           Precio original
   Link                   URL de Amazon (o '-' para saltar scraping)
+
+```
 
 ## ▶️ Ejecución
 
