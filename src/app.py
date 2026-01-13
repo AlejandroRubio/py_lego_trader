@@ -12,7 +12,6 @@ SHEET_NAME= "Listado"
 
 def calc_profitability(lego_object: lego_model, current_price_str: str):
 
-   
     if current_price_str:
         current_price = float(
             current_price_str
