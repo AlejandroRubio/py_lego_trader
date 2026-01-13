@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="img/logo.png" alt="Logo Seguimiento de Precios" >
+</p>
+
+
 # Seguimiento de precios Lego / Playmobil en Amazon
 
 Script en Python para obtener automáticamente desde Amazon el **precio
